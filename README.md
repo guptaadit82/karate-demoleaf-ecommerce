@@ -1,4 +1,4 @@
-# 📦 Broadleaf Commerce End-to-End API Testing Framework
+# 📦 Broadleaf Commerce End-to-End Karate Testing Framework
 
 > A **comprehensive Karate-based testing framework** designed to automate real-world REST, SOAP, and performance scenarios for the [Broadleaf Commerce](https://demo.broadleafcommerce.org/) demo application.  
 >
